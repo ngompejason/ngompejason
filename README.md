@@ -1,6 +1,6 @@
-- I’m @ngompejason
-- I’m currently learning Python, and Javascript
-- How to reach me : [ngompe](https://linktr.ee/ngompe)
+- I’m Ngompe Jason
+- I’m currently building git from scratch in python, and learn Golang and Javascript
+- How to reach me : [@jasongompe](https://x.com/jasongompe)
 
 <!---
 ngompejason/ngompejason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
