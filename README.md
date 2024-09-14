@@ -1,5 +1,5 @@
 - hey, I’m Ngompe Jason
-- currently building git from scratch in python and learning golang and js
+- currently building 21git(a git clone) from scratch in python and learning distributed systems and web dev
 - How to reach me : [@jasongompe](https://x.com/jasongompe)
 
 <!---
