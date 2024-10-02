@@ -1,6 +1,6 @@
 - hey, I’m Ngompe Jason
 - currently building 21git (a git clone) from scratch in python
-  distributed systems and web dev btw
+- distributed systems and web dev btw
 - DM [@jasongompe](https://x.com/jasongompe) to reach out
 
 <!---
