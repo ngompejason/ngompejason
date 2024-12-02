@@ -1,5 +1,7 @@
 - hey, I’m Ngompe Jason
-- currently building 21git (a git clone) from scratch in python
+- currently building:
+--  sgit - small implemetation of git to understand git works
+--  ccq, a cool christain quote/verses ranking web app
 - distributed systems and web dev btw
 - DM [@jasongompe](https://x.com/jasongompe) to reach out
 
