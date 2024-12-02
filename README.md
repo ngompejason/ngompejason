@@ -1,8 +1,7 @@
-- hey, I’m Ngompe Jason
-- currently building:
->> sgit - small implemetation of git to understand git works
->> ccq, a cool christain quote/verses ranking web app
-- distributed systems and web dev btw
+Hey, I’m Ngompe Jason, a software engineer based in Douala Cameroon
+Currently building:
+- sgit - small implemetation of git to understand git works
+- CCQ, a cool christain quote/verses ranking web app
 - DM [@jasongompe](https://x.com/jasongompe) to reach out
 
 <!---
